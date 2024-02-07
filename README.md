@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ari</h1>
 <h3 align="center">Software Engineer and Architect from Indonesia</h3>
 
-- 🔭 I’m currently working on [Fintech Infrastructure @xendit](https://www.xendit.co/en-id/products/cross-border-payments/)
+- 🔭 I’m currently working on Fintech Infrastructure [@Xendit](https://www.xendit.co/en-id/products/cross-border-payments/)
 
 - 📫 How to reach me **https://id.linkedin.com/in/zhorifiandi**
 
